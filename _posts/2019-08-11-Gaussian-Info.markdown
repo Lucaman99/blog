@@ -6,7 +6,7 @@ tags: [software, math, physics, quantum-computing]
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-<i>So right now, I'm reading one of the better-known expository papers on Gaussian Quantum Information, and in order to really understand everything that's going on, I'm trying to prove certain propositions in the paper for myself/write down a commentary on some of the main ideas. I'm going to be writing a mini-series over the next few days with all of these assorted proofs/explanations/notes. Now, I know this blog is called the **Coherent** State, but this blog series will likely be everything but coherent. I'm typing all of this stuff up mostly for my own benefit and understanding, so making it super readable isn't my number one priority, however, I will do my absolute best to not go totally off the deep end with lack of explanations!</i>
+<i>So right now, I'm reading one of the better-known expository papers on Gaussian Quantum Information (Weedbrook et al. [https://arxiv.org/abs/1110.3234](https://arxiv.org/abs/1110.3234)), and in order to really understand everything that's going on, I'm trying to prove certain propositions in the paper for myself/write down a commentary on some of the main ideas. I'm going to be writing a mini-series over the next few days with all of these assorted proofs/explanations/notes. Now, I know this blog is called the **Coherent** State, but this blog series will likely be everything but coherent. I'm typing all of this stuff up mostly for my own benefit and understanding, so making it super readable isn't my number one priority, however, I will do my absolute best to not go totally off the deep end with lack of explanations!</i>
 
 <br>
 
